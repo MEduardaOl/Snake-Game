@@ -1,0 +1,22 @@
+body{
+    height: 97.5vh;
+    width: 95vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(#fff,#F94C66) ;
+}
+
+#titulo {
+    background-image: linear-gradient(to bottom, #53BF9D, #BD4291);
+    background-clip: text;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+h1 {
+    font-size: 4rem;
+    font-weight: bold;
+    line-height: 1.1;
+}
